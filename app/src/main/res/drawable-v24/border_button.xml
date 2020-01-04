@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--<stroke android:color="@color/colorGrey" android:width="2dp"/>-->
+    <corners android:radius="30dp"/>
+
+    <solid android:color="@android:color/white"/>
+    <gradient
+        android:angle="45"
+        android:startColor="@color/colorPrimary"
+        android:endColor="@color/colorPrimary"
+        android:type="linear" />
+<solid android:background="@color/cardview_dark_background"></solid>
+
+
+
+</shape>
